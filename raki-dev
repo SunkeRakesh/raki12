@@ -1,8 +1,12 @@
 this is a git first class
 <<<<<<< HEAD
 i am adding this line from Fe/developer branch
+<<<<<<< HEAD
 =======
 adding second line in gitbash
 i am adding the lines from Dev/development branch
 i am adding the lines from Dev/development branch
 >>>>>>> Dev/development
+=======
+happyyyyyyyyyyyyyyyyy
+>>>>>>> Fe/developer
